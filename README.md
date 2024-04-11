@@ -1,6 +1,3 @@
 aaaaa
 
 bbbbb
-
-ccccc
-ssss
